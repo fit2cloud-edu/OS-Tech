@@ -34,11 +34,11 @@ MaxKB 开源项目：https://github.com/1panel-dev/MaxKB
 
 1Panel 在线文档：https://1panel.cn/docs/；
 
-DataEase在线文档：https://dataease.io/docs/v2/；
+DataEase 在线文档：https://dataease.io/docs/v2/；
 
 Halo 在线文档：https://www.halo.run/；
 
-MaxKB在线文档：https://maxkb.cn/docs/；
+MaxKB 在线文档：https://maxkb.cn/docs/；
 
 论坛：https://bbs.fit2cloud.com/
 
