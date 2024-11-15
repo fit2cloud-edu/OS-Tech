@@ -4,7 +4,9 @@
 
 《开源创新思维实践》课程旨在培养学生具备开源思维和创新能力，了解开源、探索开源技术，激发学生的创造力与创新潜力，最终能够拥抱开源并学会使用开源。通过开源实践案例和开源理论学习相结合的方式，引导学生了解开源文化的背景和核心理念，并探索如何将开源思维应用于不同专业领域的创新实践中。
 
-<img width="1027" alt="截屏2024-11-15 15 27 51" src="https://github.com/user-attachments/assets/26063472-766e-4119-a26c-f9d8c0594246">
+<div align=center>
+    <img width="543" alt="image" src="https://github.com/user-attachments/assets/3fbb7412-a4d7-4b97-8334-e6fcfdafbb39">
+</div>
 
 
 ## 二、课程目标
@@ -47,8 +49,8 @@ MaxKB在线文档：https://maxkb.cn/docs/；
 
 论坛：https://bbs.fit2cloud.com/
 
-教学支持群：
+## 联系我们
 
-<div align=center>
-<img width="206" alt="image" src="https://github.com/user-attachments/assets/7fc60a82-45cd-4e9b-9cfd-496dea906280">
-</div>
+如果大家有任何疑问和建议，欢迎加入微信交流群进行沟通交流。
+
+<div align="left"> <img src="image/【高校】技术交流群.png" width = 200 /> </div>
